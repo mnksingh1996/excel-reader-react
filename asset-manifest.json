@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/excel-reader-react/static/css/main.6dccf4c5.chunk.css",
+    "main.js": "/excel-reader-react/static/js/main.b70a66ef.chunk.js",
+    "main.js.map": "/excel-reader-react/static/js/main.b70a66ef.chunk.js.map",
+    "runtime-main.js": "/excel-reader-react/static/js/runtime-main.00da0577.js",
+    "runtime-main.js.map": "/excel-reader-react/static/js/runtime-main.00da0577.js.map",
+    "static/js/2.ebe70e8a.chunk.js": "/excel-reader-react/static/js/2.ebe70e8a.chunk.js",
+    "static/js/2.ebe70e8a.chunk.js.map": "/excel-reader-react/static/js/2.ebe70e8a.chunk.js.map",
+    "index.html": "/excel-reader-react/index.html",
+    "precache-manifest.a24eddb355a79fc23131012375abc4e0.js": "/excel-reader-react/precache-manifest.a24eddb355a79fc23131012375abc4e0.js",
+    "service-worker.js": "/excel-reader-react/service-worker.js",
+    "static/css/main.6dccf4c5.chunk.css.map": "/excel-reader-react/static/css/main.6dccf4c5.chunk.css.map",
+    "static/js/2.ebe70e8a.chunk.js.LICENSE.txt": "/excel-reader-react/static/js/2.ebe70e8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00da0577.js",
+    "static/js/2.ebe70e8a.chunk.js",
+    "static/css/main.6dccf4c5.chunk.css",
+    "static/js/main.b70a66ef.chunk.js"
+  ]
+}
